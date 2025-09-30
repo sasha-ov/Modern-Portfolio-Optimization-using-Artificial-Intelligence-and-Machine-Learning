@@ -57,9 +57,15 @@ The goal is to provide a framework for **adaptive, data-driven asset allocation*
 ## 📚 References
 
 [1] Wikipedia contributors. *Dow Jones Industrial Average* — Wikipedia, the free encyclopedia, 2024. Accessed: 2024-04-27.
+
 [2] Marcos López de Prado. *Building Diversified Portfolios That Outperform Out-of-Sample*. SSRN Electronic Journal, 2016. SSRN preprint, [https://ssrn.com/abstract=2708678](https://ssrn.com/abstract=2708678).
+
 [3] Fidelity Viewpoints. *What are the Magnificent 7 stocks?* [https://www.fidelity.com/learning-center/smart-money/magnificent-7-stocks](https://www.fidelity.com/learning-center/smart-money/magnificent-7-stocks), 2024. Accessed: 2024-04-27.
+
 [4] Stefan Jansen. *Machine Learning for Algorithmic Trading*. Packt Publishing, Birmingham, UK, 2nd edition, 2020. Chapter 22: Deep Reinforcement Learning – Building a Trading Agent.
+
 [5] Steven Johnson. *Python for Quant Finance: Building Financial Models and Trading Algorithms*. Independently Published, 2021.
+
 [6] Eryk Lewinson. *Python for Finance Cookbook*. Packt Publishing, Birmingham, UK, 2nd edition, 2022.
+
 [7] Hariom Tatsat, Sahil Puri, and Brad Lookabaugh. *Machine Learning and Data Science Blueprints for Finance: From Building Trading Strategies to Robo-Advisors Using Python*. O’Reilly Media, Sebastopol, CA, 2021.
